@@ -1,0 +1,345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The saints sacred laver. By Iames Eglesfield, master of arts, minister of Gods word at Knightsbridge. Preached at Padington, September the first, 1645</title>
+            <author>Eglesfield, James, b. 1601 or 2.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83667</idno>
+            <idno type="STC">Wing E254A</idno>
+            <idno type="STC">ESTC R231737</idno>
+            <idno type="EEBO-CITATION">99900019</idno>
+            <idno type="PROQUEST">99900019</idno>
+            <idno type="VID">133239</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83667)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133239)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2496:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The saints sacred laver. By Iames Eglesfield, master of arts, minister of Gods word at Knightsbridge. Preached at Padington, September the first, 1645</title>
+                  <author>Eglesfield, James, b. 1601 or 2.</author>
+               </titleStmt>
+               <extent>[8], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Thomas Harper,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133239:1"/>
+            <p>THE SAINTS SACRED LAVER.</p>
+            <p>By <hi>Iames Eglesfield,</hi> Maſter of Arts, Miniſter of Gods Word at <hi>Knightsbridge.</hi>
+            </p>
+            <p>Preached at <hi>Padington,</hi> September the firſt, 1645.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Harper,</hi> 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:133239:2"/>
+            <pb facs="tcp:133239:2"/>
+            <head>To the Honourable Knight, Sir <hi>William Belfore.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S Chriſt himſelfe ſaid ſome<g ref="char:EOLhyphen"/>time to a multitude, the like may I, taking occaſion from this my preſumpti<g ref="char:EOLhyphen"/>on, What came ye out to ſee? a Reed ſha<g ref="char:EOLhyphen"/>ken with the winde? it may be ſo: but what came yee out for to ſee? a Prophet? here I muſt change the note, nay leſſe then a Prophet, for as among the ſonnes of women, there was not a greater then Hee of whom Chriſt ſpake; ſo among the ſonnes of women is there not a leſſe then he whoſe pen now preſents that ſervice
+<pb facs="tcp:133239:3"/>which his tongue ought, in its proper place, did not the cloud of a darkenned fortun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eclipſe his apparition. Leſſe in maturity and ripenes for ſo weighty a buſines, as touching my ſelfe; leſſe in o<g ref="char:EOLhyphen"/>pinion of fitnes, as touching the eſteeme of many who it may be have ſeene me ſweating in the purſuite of my Recreati<g ref="char:EOLhyphen"/>on, (fiſhing) but never in ſerving at the Alter of my God, Notwithſtanding, oh my God, I am ſent as a meſſenger before thy face, and ſhall prepare the way be<g ref="char:EOLhyphen"/>fore thee.</p>
+            <p>For by a fit Metaphor drawne from the art and practice of fiſhing, our Savi<g ref="char:EOLhyphen"/>our Chriſt hath ſhaddowed forth both the calling and imployment, both of his firſt choice Apoſtles, and all other Apoſtolicall ſucceeding Preachers, ſaying, I will make
+<pb facs="tcp:133239:3"/>you fiſhers of men. Mat. <hi>4, 19.</hi> Such you ſhall bee, becauſe ſuch I will make you to be, <hi>&amp; quorum pars parva fui,</hi> full twenty yeeres exerciſing this holy functi<g ref="char:EOLhyphen"/>on: who although with Peter may ſay, <hi>I</hi> have toyled all the night and caught nothing, (for my ſelfe) yet with Iohn Baptiſt Luc. <hi>3.10. I</hi> have ſome reaſon to beleeve that my labours have not beene altogether unprofitable, among the Men<g ref="char:EOLhyphen"/>noes and meaner ſort <hi>I</hi> fiſhed for, which were the crowd of common people publi<g ref="char:EOLhyphen"/>cans and ſinners, very ſlippery Eeles, that had long lien in the mud of their miſdoings, and ſanguinary ſouldiers, the Pike and Water-wolves of the Ocean of this world, a people naturally diſeaſed with the bloody iſſue. Encouraged ther<g ref="char:EOLhyphen"/>fore by that inabling ſpirit of grace which
+<pb facs="tcp:133239:4"/>of <hi>Priſcilla</hi> and <hi>Aquila,</hi> poor Tent ma<g ref="char:EOLhyphen"/>kers, were able to poſe that great Clerke <hi>Apollos:</hi> with <hi>Ieremy I</hi> preſume to go to the great ones: and with Peter will once more let downe my Evangelicall ſweep-net, which was not compoſed by the wiſedome of man, or woven with the deceitfull words of Sophiſters, but with the words of the Goſpell, according to that of St: Paul, <hi>1.</hi> Cor. <hi>2.4.</hi> Neither is it any materiall net, like that in <hi>Suidas</hi> which one caſt over another, while they were in ſingle combate together, and when he had enſnared him, he ſlew him; nor ſuch a cruell, barbarous, and bloody ſpirituall net, as the Prophet Micah ſpea<g ref="char:EOLhyphen"/>keth of, Micah <hi>7.</hi> All lie in wait for blood, every man bunteth his brother with a net. But it is that Sagena, that
+<pb facs="tcp:133239:4"/>ſweep net which our Saviour brought downe from heaven, even the glorious Goſpel of Ieſus Chriſt preached, that wil dragg and drawe out all thoſe that are plunged in the darkeſome holes of igno<g ref="char:EOLhyphen"/>rance, and in the muddy cares of this World, to the light of Truth, and love of ſupernall things. <hi>Et faelices illi quos haec ſagena de profundo criminum et errorum pertrahit ad lucem.</hi> Amb. Happy, oh thrice happy they, if this draw net faſten on them, and bring them from darkeneſſe to light from death to life; <hi>a faeculo,</hi> from the ſea of this World, <hi>ad faecula ſaeculorum</hi> to the ſhore of a bet<g ref="char:EOLhyphen"/>ter life, even the land of the living, which as <hi>I</hi> wiſh to your Worſhip ſpecially for my bounden duties ſake, and to your ver<g ref="char:EOLhyphen"/>tuous Lady, the field of whoſe loving ſin<g ref="char:EOLhyphen"/>cerity
+<pb facs="tcp:133239:5"/>in the remaining courſe of your lives, being fully charged with deeds of charity, cannot but be accompliſht with a Creſt of Glory: So even from my ſoule <hi>I</hi> wiſh it to all that love to Bathe in Inno<g ref="char:EOLhyphen"/>cency, and expect the comming of the Lord Ieſus.</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>I am your humbleſt ſervant, IAMES EGLESFIELD.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:133239:5"/>
+            <head>THE SAINTS SACRED <hi>LAVER.</hi>
+            </head>
+            <epigraph>
+               <bibl>
+                  <hi>Pſal. 26. verſ. 6.</hi>
+               </bibl>
+               <q>I will waſh my hands in innocencie, O Lord, and ſo will I go to thine Altar.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His verſe containes a holy Preparation, a ho<g ref="char:EOLhyphen"/>ly Preſence, and a holy Place. The holy pre<g ref="char:EOLhyphen"/>paration is in theſe words, <hi>I will waſh my hands in innocency.</hi> The holy preſence in this word <hi>ô Lord:</hi> And the holy place, in this word, <hi>Altar,</hi> and ſo will I <hi>goe to thine Altar.</hi>
+            </p>
+            <p>In the holy preparation note two things:</p>
+            <p n="1">1 <hi>Quis praeparat,</hi> in this word, I, <hi>David.</hi>
+            </p>
+            <p n="2">2 <hi>Quo modo,</hi> in this word, waſh, I <hi>David <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſh.</hi>
+            </p>
+            <pb n="2" facs="tcp:133239:6"/>
+            <p>In the <hi>Quo modo,</hi> note two things, 1. The Bath, <hi>Innocencie.</hi> 2. The parts bathed, <hi>Hands.</hi>
+            </p>
+            <p>In the holy preſence note two things: 1. The Majeſty <hi>Domine.</hi> 2. The Mirror in this particle, <hi>ô!</hi>
+            </p>
+            <p>In the holy place note two things. 1. The Reverence of his Progreſſe in this word, <hi>So,</hi> not preſumptuouſly, but humbly, like his Servant.</p>
+            <p n="2">2. The reference of the place, in theſe words, <hi>Thine Altar,</hi> And ſo will I <hi>go to thine Altar.</hi>
+            </p>
+            <p>This is the reſolution of the Text, which I meane by Gods goodneſſe to treat of: and firſt, <hi>Quis,</hi> that is <hi>David,</hi> a King by place, a Prophet in Spirit, and a Saint by cal<g ref="char:EOLhyphen"/>ling. I will waſh. A King by place: as the image of God is more expreſt in Kings, then in Groomes and vaſſalles, their power being a reſemblance of his divine power, and their Majeſty a Character of his divine Ma<g ref="char:EOLhyphen"/>jeſty; ſo ought the flames of this Image to be more conſpicuous in them, then in the in<g ref="char:EOLhyphen"/>feriour or darker ſonnes of God.</p>
+            <pb n="3" facs="tcp:133239:6"/>
+            <p>It is not the beauty of his Throne, the riches of his Diadem, the guard of his per<g ref="char:EOLhyphen"/>ſon, or any the like <hi>Dalilah</hi> can cut the hair of <hi>David,</hi> or blow him bigge with a Tym<g ref="char:EOLhyphen"/>pany of ſelfe righteouſneſſe, he being fully bent for his own ſalvation, and his peoples inſtruction to bath in the Laver of Holines. In Innocency will I waſh my ſelfe ſayes he, I, a God by name will do it for ſo the Scri<g ref="char:EOLhyphen"/>ptures title Kings, that when I come before the God of nature my ſacrifice may be well accepted.</p>
+            <p>What <hi>David</hi> doth here in perſon muſt be the preſident of Magiſtracie, or rather of Magiſtrates, then any of meane or perfun<g ref="char:EOLhyphen"/>ctorie calling; ſuch a levell hath the ſhaft of Iniquitie, againſt the breaſt of the great Ones, ſo many are their pit falls, ſo danger<g ref="char:EOLhyphen"/>ous their examples, ſo contractive of Sinne their conſciences; Therefore whiſper not in their eares the Magnificency of their places, it is a temptation; nor the ſolemnity of their worſhips, it is a Temptation, for <hi>David</hi> knew by woefull experience, that all the power of worldly dignity was temptation,
+<pb n="4" facs="tcp:133239:7"/>for hee abuſed his power in the murther of <hi>Vriah:</hi> 2 <hi>Sam.</hi> 11. hee ſtained his beauty in the deffowry of <hi>Bethſheba,</hi> he wronged his Throne, in the numbring his people; And flatter not, then the Great Ones with telling them of their Greatnes, puff them not up, with the power of their places, they are all but baits for their Innocency. So the higher men bee in place, the more frequent they ought to be at Prayer: ſo ſlippery is the con<g ref="char:EOLhyphen"/>dition of greatneſſe. For who ſooner fell then <hi>Lucifer,</hi> who more debaſed then <hi>Nebu<g ref="char:EOLhyphen"/>chadnezar? Dan.</hi> 4.24. Who offend God oftner then great Ones? A Lecture to the Vermillian robes of Magiſtracy; that their ſoules be not of the colour of their ſcarlet, their conſciences of the ſame graine with their Coapes, is to waſh in Innocency. Take heed yee great Ones, Authority is a glewy &amp; pitchey adjunct, maivelouſly contractive of Sinne, and therefore ſhould ever be necreſt the poole of <hi>Betheſda,</hi> when the Angel <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it, ſo quickly doth it take the ſoyle, ſo eaſi<g ref="char:EOLhyphen"/>ly doth it catch the ſtaine.</p>
+            <p>Wherefore as yee are eminent in place,
+<pb n="5" facs="tcp:133239:7"/>ſo muſt you bee righteous in perſon. You muſt be as Chriſt himſelf, <hi>Cant.</hi> 8. not only <hi>Rubicundi</hi> but <hi>Candidi,</hi> as white <hi>per innocen<g ref="char:EOLhyphen"/>tiam cordis,</hi> as you are ruddy <hi>per ruttlatio, nem veſtis</hi> the brightneſſe of your garments. Your hairs muſt bee like the Ancient of daies, or like wool, or like Snow, to ſignifie your wiſedome; your eyes like a flame of fire, to ſignifie your ſearch and might, your feet like fine braſſe, to ſignifie the perfectnes of your wayes; and your voice like the ſound of many waters, fearefull and terrible. You muſt put on the glorious apparell of Inno<g ref="char:EOLhyphen"/>cency, and tranſ figure your ſelves, like Chriſt himſelfe upon the mount, that your righteouſneſſe may break forth as the light, and the beauty of it, as the burning lampe: for ſo ſaith, holy <hi>David I will waſh my hands in innocency,</hi> a King by place.</p>
+            <p>Now followeth <hi>I will waſh my hands in Innocency,</hi> a Prophet in Spirit.</p>
+            <p>As I rang in the eares of Magiſtracie, in the former point, ſo ring I now in the eares of Prieſthood, arraigning mine own ſpirit, in the preſence of God, and with mine the
+<pb n="6" facs="tcp:133239:8"/>Spirit of every <hi>Levite</hi> in this Temple, the Soule of every Prophet in this houſe, ac<g ref="char:EOLhyphen"/>knowledging the required innocency of our Condition. Wee are the Cherubims and Seraphims of the lower houſe of God. We of the Miniſtery are Gods by a more pecu<g ref="char:EOLhyphen"/>liar ſequeſtration, then the ordinary Sonnes of men; Wherefore wee muſt waſh our hands in Innocency, who are Prophets in Spirit: I will ſaith <hi>David,</hi> a King, then muſt we, if wee will follow the example of the righteous, I will ſaith hee, a Prophet in Spi<g ref="char:EOLhyphen"/>rit, a party converſant with the religious ſer<g ref="char:EOLhyphen"/>vice of God. This is a preface unto us, this teacheth us who are of the Tribe of <hi>Levi,</hi> to gird our loines ſtraite with the girdle of Innocency when we enter into the Sanctua<g ref="char:EOLhyphen"/>ry of God. For we ſerve at the Altar, wee preach the Law, we keepe the book of Co<g ref="char:EOLhyphen"/>venant, we are of Gods privy chamber as it were, wee lodge with <hi>Moſes</hi> in the Mount, we peruſe the Tables of Stone, we beare the <hi>Arke,</hi> we bow at the Mercy ſeate, wee are dedicated to God, we are conſecrated to the Temple, wee are tyed to have <hi>Vrim</hi> and
+<pb n="7" facs="tcp:133239:8"/>
+               <hi>Thummim</hi> upon our hearts, wee weare the white linnen <hi>Ephod,</hi> in which ſhould ſhine the Sardin, Topaz, and Carbuncle, A ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and Amatiſt, of a holy converſation. <hi>Exod.</hi> 28.17. The Signet engraven upon <hi>Aarons</hi> forehead, is holyneſſe to the Lord, <hi>Exod.</hi> 28.36. ſo that the Bill of our report, muſt be pure mettle, no tinckling or hollow Cym<g ref="char:EOLhyphen"/>ball: in a word wee are forbidden any, the leaſt blemiſh; for faith the Scripture, cleanſe the Levites, purifie, fetch the Laver of braſſe for the Levite, All their cloathes muſt ſmell of Myrrh, Allowes, and Caſſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a, of a good conſcience, out of the Ivory pallaces, their Innocent and ſpotleſſe hearts whereby they ſhould make themſelves glad. Let my Prieſts be cloathed with righteouſnes ſaith the Spirit of God; It is the Livery of <hi>Aaron,</hi> the cloath of <hi>Levi,</hi> the mark of diſtinction, the ſeale of our vocation, the Enſigne of the Prophets of God; which holy <hi>David</hi> held out as a Banner of defiance againſt the De<g ref="char:EOLhyphen"/>vill, though the ſnailes of our times pull in theſe hornes of ſalvation, wee being lights which ſhine not, ſalt which ſeaſon not
+<pb n="8" facs="tcp:133239:9"/>clouds which drop not, tapers which burne not, unſanctified veſſels which purifie not, Cenſors which perfume not, Ethiops which waſh not, this was not <hi>Davids</hi> ſecurity, this was not his unhallowed precipitation: No, I will waſh, a King by place, theres a Cau<g ref="char:EOLhyphen"/>tion for great Ones, I will waſh, a Prophet in Spirit, thers a caution for Prophets.</p>
+            <p>And as I have hitherto ſpurred on the Magiſtrate and the Miniſter, to a provident and watchfull ſuperintendency, whiles they ſtand in the gates of Sion; So come I now to the meaneſt and ſhalloweſt proſelite in this aſſembly. I will waſh my hands in In<g ref="char:EOLhyphen"/>noncency, not onely as I am a King, and ſo may be dangerouſly diſpoſed to doe evill; neither as I am a Prophet, and ſo ſtrictly ty<g ref="char:EOLhyphen"/>ed to do well, but alſo as I am a Saint by cal<g ref="char:EOLhyphen"/>ling, an Iſraelite, a profeſſor, within the Arke, within the Covenant, within the Church: for without are none but unhallowed Caitifes, profane adulterers, outcaſts from Heaven. As I am therefore thine, &amp; through thy mercy admitted into the family of Saints, enrowled in the parchment of heaven, regiſtered a<g ref="char:EOLhyphen"/>mong
+<pb n="9" facs="tcp:133239:9"/>the bleſſed ones, as I am thus regene<g ref="char:EOLhyphen"/>rated by the ſpirit, adopted by grace, con<g ref="char:EOLhyphen"/>firmed by the Sacraments, united to the Church, and out of thy mercy made a live<g ref="char:EOLhyphen"/>ly member of the ſame (as every perſon un<g ref="char:EOLhyphen"/>der this holy roofe, in all ſeeming appear<g ref="char:EOLhyphen"/>ance, is) why, even for this, will I waſh my hands in Innocency, ſaies <hi>David,</hi> ſeeing my Calling is holy, my God, his Altar, my vow holy, my inheritance holy, I therefore thus inhabited thus adopted, though my Scepter had lickt the duſt, and ſo I had been no King, though the gift of prediction had failed mee, and ſo I had been no Prophet, yet for the grace ſhewed me in the benefit of my calling as being called to ſerve for the greater praiſe of thy Name, I who am thus ſequeſtred from the world, and ſanctified from my infancy to thy ſervice, will waſh my hands in Innocency. And in this reſpect the pooreſt perſon in this Congregation, is tyed to an holy preparation: for though we bee not all Kings by place, nor Prophets in Spirit with <hi>David,</hi> yet we are all Saints by calling with <hi>David.</hi> I therefore when I come
+<pb n="10" facs="tcp:133239:10"/>into the houſe of God, will waſh my hands in Innocency, muſt be the generall reſoluti<g ref="char:EOLhyphen"/>on of all men. For Innocency is aſwell the Sacrifice of Tradeſ-men as Prophets, if they once be inaugurated to the name of Chriſti<g ref="char:EOLhyphen"/>ans, baptiſed to the death of Sinne. For then as puniſhable ſhall Alexander the cop<g ref="char:EOLhyphen"/>per-ſmith bee, for oppoſing the ſpirit of God, as Balaam for taking the wages of ini<g ref="char:EOLhyphen"/>quitie. So then, we ſonnes of <hi>Aaron,</hi> muſt not ſo urge <hi>Davids</hi> holy preparation, as hee is a King by place, as that we neglect it, as hee is a Prophet in Spirit, neither muſt you Me<g ref="char:EOLhyphen"/>chanicks ſo preſſe our Innocency who are of the Prieſthood, and ſo Prophets by ſpirit, as that you neglect your owne, who are of the Church, and ſo Saints by calling. The bright ſunne of our righteouſnes muſt not quite ecclipſe the Star of yours, but wee are all to ſhine, though one exceed another in glory.</p>
+            <p>Wherefore to conclude this point, when <hi>David</hi> ſaith I will waſh my hands in Inno<g ref="char:EOLhyphen"/>cency, as I am a King he ſatisfies the Magi<g ref="char:EOLhyphen"/>ſtrate, as he is a prophet, he ſanctifies the Mi<g ref="char:EOLhyphen"/>niſter,
+<pb n="11" facs="tcp:133239:10"/>as a Saint by calling, he ſanctifies the people. Thus you ſee he ſpeakes to all ſorts of people, all trades of life, to every condi<g ref="char:EOLhyphen"/>tion of perſons, to every Mammoniſt, none are exempted from holynes, whether <hi>Deme<g ref="char:EOLhyphen"/>trius</hi> the ſilver-ſmith, <hi>Act.</hi> 19.24. or <hi>An<g ref="char:EOLhyphen"/>drew</hi> the fiſher-man, <hi>Matth.</hi> 4.24. or <hi>Gama<g ref="char:EOLhyphen"/>liel</hi> the Lawyer, <hi>Act.</hi> 22.3. or <hi>Lydia</hi> the purple ſeller, 16.14. or <hi>Dorcas</hi> the Semſter, 9.36. or <hi>Simon</hi> the Tanner, 6.43.20.9. or to be ſhort, the meaneſt of all, the Con<g ref="char:EOLhyphen"/>gregation is mixt, and therefore I pray &amp; re<g ref="char:EOLhyphen"/>queſt you all, to leave your diſſimulation, and to waſh your hands in Innocency.</p>
+            <p>Thus much for <hi>Quis,</hi> now followeth <hi>Quo modo praeparat,</hi> and that is by waſhing, I <hi>David Waſh.</hi>
+            </p>
+            <p>Now me thinkes I heare a voice which tells mee we are all, a leprous generation, a viperous and infectious brood, full of ſores, ulcers and botches, ſcarlet ſoules, crimſon conſciences, ramiſh unſavoury loathſome ſinnes: if ſo; then let us ſee the remedy and that induceth two things, the Bath, and the Parts bathed: and firſt of the Bath, Inno<g ref="char:EOLhyphen"/>cency.</p>
+            <pb n="12" facs="tcp:133239:11"/>
+            <p>See but the ingredients, and you ſhall ea<g ref="char:EOLhyphen"/>ſily ſee the vertue.</p>
+            <p>This Bath is made of Holineſſe, righte<g ref="char:EOLhyphen"/>ouſneſſe, charity, hope, faith, joy, humility, peace, prayer, thankſgiving, meditation, vigilancy, equity, ſanctity, chaſtity, contri<g ref="char:EOLhyphen"/>tion, repentance, perſeverance, with many other heautious ornaments of the houſe of God. All holineſſe of mind, righteouſneſſe of ſoule, charity towards thy neighbour, hope in thy Jeſus, Faith in his merits, Joy in the Holy Ghoſt, peace of conſcience, humility of carriage, ſerventneſſe of prayer, meditation of Gods mercies, delight in his word, vigilancy over our affections, ſanctity of heart, equity towards all men, chaſtity of thought, repentance for ſinne, heat of devo<g ref="char:EOLhyphen"/>tion; and perſeverance, the Crowne of holy and vertuous actions.</p>
+            <p>Lo here's a holy water for the Church of <hi>Rome</hi> to waſh in, here's a Jordan for all le<g ref="char:EOLhyphen"/>prous <hi>Naamans</hi> to cleanſe in, tis no river of <hi>Damaſcus,</hi> but of Iſrael, here's a poole of <hi>Betheſda,</hi> for our lame and creeple conditi<g ref="char:EOLhyphen"/>ons, here's a river of life, as cleere as criſtal,
+<pb n="13" facs="tcp:133239:11"/>proceeding out of the throne of God and the Lamb, in midſt of which; groweth the tree of life. <hi>Revel. ult.</hi>
+            </p>
+            <p>Who ſo enters into the Temple of God without theſe, who ſo offers to ſet foote within the porch which is called Beautifull without theſe, doth but only peep through a craney of the mount <hi>Horeb,</hi> but ſhall ne<g ref="char:EOLhyphen"/>ver with <hi>Moſes</hi> aſcend up his holy hill: they only ſound forth harſh melody into the ears of God; through the untuneableneſſe of their ſpirits, which ſhould ſing Gorapical<g ref="char:EOLhyphen"/>ly as the Coriſters of heaven, for holineſſe becometh thy houſe for ever.</p>
+            <p>
+               <hi>Nazianzen</hi> is ſo religiouſly ſcrupulous, and conſcionably timerous of his unworthy ap<g ref="char:EOLhyphen"/>proach into the houſe of prayer, that it hath often affrighted mee (ſaith hee) from the Mercy feat of God; not that I ſhund the beauty of his Altar, but that I feared mine owne unhallowed preſence; and ſo conſe<g ref="char:EOLhyphen"/>quently the ſuddain vengeance of Heaven: I am aſhamed (ſaith he) of thoſe that come with unwaſhen hands, and unſanctified hearts, to ſuch holy myſteries as theſe are;
+<pb n="14" facs="tcp:133239:12"/>I feared to draw neere, ſaid hee, and yet my hands were innocent, mine eyes cleare, my heart ſingle, mine eare erect, and attentive, my ſpeech ſavoury, and my members were weapons of righteouſneſſe, and like ſo many Inſtruments to tune forth the praiſe of my Creator. Here was an innocent and vertu<g ref="char:EOLhyphen"/>ous Churchman, well known, ſquared and cut out of a ſpirituall building, of a holy and heavenly tincture; and yet he feares his own weakneſſe. But is there the like devotion found among us?</p>
+            <p>No, For were it, as it is not, it would draw many a briniſh teare from the eyes of theſe marble and Stone witneſſes, to ſee our ir<g ref="char:EOLhyphen"/>reverent and hallowed approaches: for wee come with our hands filthy, our feet pollu<g ref="char:EOLhyphen"/>ted, with ſleepy eyes, with drowſy heads, with full ſtomacks, with quailes in our mouthes, and our bellies full of bread. Some ſleepe with <hi>Euticus,</hi> Act. 20.9. ſome are of<g ref="char:EOLhyphen"/>fended with the Scribes &amp; Phariſees Joh. 7.48. ſome are angry with <hi>Herod, Mat.</hi> 2.16. ſome ſeoffe with <hi>Ahab,</hi> 1 <hi>Reg.</hi> 22.8. ſome glance laciviouſly with <hi>Ieſabel,</hi> ſome are on<g ref="char:EOLhyphen"/>ly
+<pb n="15" facs="tcp:133239:12"/>lukewarm with <hi>Agrippa, Act.</hi> 26.28 and ſome make bargaines with <hi>Iudas, Matth.</hi> 26.15.</p>
+            <p>Few here with a chaſte and dove-like ſimplicity, few with patience, few with Faith, ſcarce one, with a good conſcience. No, our eyes are playing the harlots, our hearts are gon a whoring, our eares are ſtopt with the adder, our tongues broaching va<g ref="char:EOLhyphen"/>nity, our hands in our counting-houſes, our feet prickt with thornes, never at eaſe, ever ſtraite at the inſtep, till we can whip forth of the holy congregation and make it the houſe of folly: So that it is Gods great goodneſſe wee are not ſtricken dead with <hi>Nadah</hi> and <hi>Abihu, Numb,</hi> 3.4. for offering ſtrange fyer upon his Altar. It is his infinite mercy that we are not burnt down with the men of <hi>So<g ref="char:EOLhyphen"/>dom. Lev.</hi> 10.1.2. or ſwallowed up quick with <hi>Corah, Dathan</hi> and <hi>Abyram, Numb.</hi> 16.1. for comming thus raſhly and unprepared into his holy Sanctuary, our hearts being full of evill intentions, which is to play the hypocrite. But <hi>David</hi> ſaith I will waſh, and ſo muſt it bee with all thoſe that ap<g ref="char:EOLhyphen"/>proach
+<pb n="16" facs="tcp:133239:13"/>the face of God. Thou muſt ariſe oh Sion, thou muſt put on the garments of thy beauty oh <hi>Ieruſalem</hi> thou muſt ſhake the duſt of thy feet and unlooſe the yoak from thy neck, when thou draweſt neere unto the preſence of the moſt high: Nay, yee ought to uſe all reverence with fervency of Pray<g ref="char:EOLhyphen"/>er, with fire of devotion, with ſanctity of life, with purity of Spirit, with contrition of heart, and the like acceptable offices in the eye of heaven. Then ſhall thy righteouſneſſe break forth before God, as the light, and thy juſt dealing as the nooneday. Therefore bath thy heart often in ſorrow full ſighs, and de<g ref="char:EOLhyphen"/>ſire the Lord, ſaying; O Lord grant, I beſeech thee, an equitie towards all men; piety to<g ref="char:EOLhyphen"/>wards thee my God, honeſty of mind, and a heart ſeaſoned with the leauen of Religion, that is, a Soule ever prepared to come into the houſe of my God and viſit towards his holy Temple.</p>
+            <p>And thus much of the Bath, Innocency.</p>
+            <p>Now for the partes bathed, Hands. I will waſh my hands. &amp;c.</p>
+            <p>There is a glorious ſtipend ſet downe in
+<pb n="17" facs="tcp:133239:13"/>Scripture for ſuch as have cleane hands; who ſhall aſcend into the hill of the Lord? Even he that hath cleane hands, Pſ. 24.4.18.20. Againe, God ſhall recompence me accor<g ref="char:EOLhyphen"/>ding to the cleanneſſe of my hands. So then we muſt know, that as innocency ſhewed the vertue of the Bath, ſo Hands the wiſe<g ref="char:EOLhyphen"/>dome of the party Bathing.</p>
+            <p>Jezabel anoynted her face when David waſhed his hands, and threw aſhes upon his head, a great disfiguring to his perſon; yet was he cleaner in the ſight of God then the ſlippery ſinging Queene of Iſrael. Ezekiah cleanſed his hands, and Job made a cove<g ref="char:EOLhyphen"/>nant with his eyes, pretious parts both; yet none ſo pure, ſo entire, ſo holy, as the ba<g ref="char:EOLhyphen"/>thing of our Hands in Innocency.</p>
+            <p>I meane not that Phariſaicall cleaning of the hands, for that is not comparable to the cleaning ſincerity of the heart, if you para<g ref="char:EOLhyphen"/>lell the parts: but I meane the hands, by way of a ſymbolicall and figurative reſem<g ref="char:EOLhyphen"/>blance; the phraſe not being ſo much to be <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cand, as it is an externall waſhing, and ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roper to hypocrites, but as it is a ſymbole
+<pb n="18" facs="tcp:133239:14"/>of internall purification, and ſo proper to the Saints.</p>
+            <p>Now ſome waſhing their hands onely will raſhly ſalute the Altar of God, beeing coloured with ſeeming appearance: this is Hypocriſie. Others will waſh their hands as a teſtimony of the purity of their hearts and ſo reverently approach the Mercy ſeate of God, being beautified with reall integri<g ref="char:EOLhyphen"/>ty. This is Innocency.</p>
+            <p>But why did David ſay his hands more then his feet, or any other part of his body: Becauſe the principall Organs of all exter<g ref="char:EOLhyphen"/>nall Actions, are the hands, and ſo Symbo<g ref="char:EOLhyphen"/>lycally the trueſt reſemblance of all hearty and ſpirituall ablution. When therefore it is ſaid David waſhed his hands, &amp;c. Wee muſt not underſtand onely an outward and viſible cleanſing of his carnall body, but a generall cleanſing of his ſoule and Spirit; Hands being the Executioners of all exter<g ref="char:EOLhyphen"/>nall Actions, and ſo the Figure of a totall and generall, both exteriour and interiour San<g ref="char:EOLhyphen"/>ctification. Wherefore when thou look<g ref="char:EOLhyphen"/>eſt into the houſe of God, look to thine Eye
+<pb n="19" facs="tcp:133239:14"/>leaſt that grow wanton, take heede to thy Tongue, that it ſpeake no guile, looke to thy feete, that they ſlip not, but eſpecially waſh thy Hands, that they miſcary not, let not thoſe be rough like Eſau's, but ſmooth as Iacobs, ſet with gold, Cant. 5.14. Then mayeſt thou put thy finger in thinge eye, if it trouble thee, then mayeſt thou nipp thy ſelf by the Eare, to keep them from ſleep in ſe<g ref="char:EOLhyphen"/>curity, ſtrike thy ſelfe on the feete, if they ſtumble or tripp, beat thy ſelfe on the heart, if that prevaricate or play the whore, ſmite thy ſelfe on the mouth, if it talke idleſy, rubb thy ſelfe on the Temples, if they grow dull, in a word, then mayeſt thou doe all things decently as befitts the houſe of prayer. So that the waſhing of the hands in Innocency is the true reſemblance of all Spirituall ab<g ref="char:EOLhyphen"/>lution.</p>
+            <p>Now many will waſh, but few in Inno<g ref="char:EOLhyphen"/>cency. Some with Pilate before blood pub<g ref="char:EOLhyphen"/>liquely, Mat. 27.24. Some with the Phari<g ref="char:EOLhyphen"/>ſee before dinner hypocritically, and ſome with the Gentiles before an oath ſuperſtiti<g ref="char:EOLhyphen"/>ouſly. But let us with the religious Levite
+<pb n="20" facs="tcp:133239:15"/>and Chriſtian profeſſor, purifie and purge not onely the viſible fleſh of our hands, but alſo the inviſible taints of our Spirit. Fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the former ſanctification is but only a figur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of that which followeth, as you may read<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Heb. 9. but the latter is a modell of that true and lively ſacrifice of Chriſt himſelfe, who through the eternall Spirit of God, offered himſelfe without ſpot to God, purging our conſciences from dead works to ſerve the e<g ref="char:EOLhyphen"/>verliving God.</p>
+            <p>Wherefore, O Lord, ſprinkle with thine hyſope, the blood of thy Sonne, that the water of thy Spirit may never ceaſe to puri<g ref="char:EOLhyphen"/>fie our hands, till they bee as white through Innocency, as thy Throne above is beautifi<g ref="char:EOLhyphen"/>ed with Ivery: Eſpecially wee of the ſeede of Aaron, that every action of ours may bee acceptable: our hands with which we hold the T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble of the Covenant, our hands with which we ſlay the Sacrifice, our hands with which wee bleſſe the Congregation, with which we gird about the linnen Ephod of an holy converſation, with which wee lift up the ſacred Challice, with which wee di<g ref="char:EOLhyphen"/>ſtribute
+<pb n="21" facs="tcp:133239:15"/>thy holy Body, our hands by the continuall intention of which in our Pray<g ref="char:EOLhyphen"/>ers, wee lift up the hinges of the everlaſting doores, that the King of glory may receive us. Let all theſe bee made cleane and pure from all filthynes; let us waſh our hands in all our Actions, that being thus prepared we may goe to his Altar. Thus much for the <hi>Quo modo:</hi> now followes the holy preſence, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord.</hi>
+            </p>
+            <p>In which, note two things, firſt the Ma<g ref="char:EOLhyphen"/>eſty, <hi>Domine.</hi> Secondly the Mirror in this article <hi>ô!</hi>
+            </p>
+            <p>Firſt of his Majeſty, <hi>Domine.</hi>
+            </p>
+            <p>Some writers divide the Names which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re common to the Trinity by a foure fold <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ifference, ſome onely pointe at the Eſſence, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Iehovah,</hi> ſome at the diſtinction of per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ns as <hi>Elohim,</hi> ſome at the eſſentiall proper<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s of his Diety, as only wife, only juſt &amp;c. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d ſome at the Relation which God hath <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his creatures, as Lord of Lords, King of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ngs: And of this laſt order is the name u<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d in my Text. For power and authority <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve a certaine habitude and reſpect unto the
+<pb n="22" facs="tcp:133239:16"/>by which hee is ſubjugated and tyed to a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> awfull obedience: for we have as Aquina<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſayeth, a certain reall relation unto God, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Creator, without whom we had had n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Being, and God to us a Rationall, becauſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he did humble himſelfe to exalt us. Where fore this name <hi>Domine,</hi> in my Text, is nei<g ref="char:EOLhyphen"/>ther a Symbole of his infinite eſſence, nei<g ref="char:EOLhyphen"/>ther of any perſonall diſtinction, but only o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a powerfull, dreadfull, and vindicatory re<g ref="char:EOLhyphen"/>lation he hath to Man; which ought to cauſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a reverent and fearefull approach, into hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſence. Therefore if we refuſe his Mercy as he is <hi>Deus,</hi> and ſo can crowne us, yet le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us not deſpiſe his power as hee is <hi>Dominus</hi> and ſo can cruſh us. For as he is <hi>Deus,</hi> he is a God of bowells and compaſſion, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> carrieth the rod and ſtaffe of comforte, P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 23.4. but as hee is <hi>Dominus,</hi> he is a God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vengeance, that can ſcourge us with a rod <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> yron, Pſ. 2. for our iniquities.</p>
+            <p>Wherefore when David in the awfull re<g ref="char:EOLhyphen"/>ſolution of his ſoule, and criſtall ſincerity <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Spirit, commends the Sacrifice of his cle<g ref="char:EOLhyphen"/>votion to heaven, he propoſeth ſuch a pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſence
+<pb n="23" facs="tcp:133239:16"/>of God, as is moſt extimulatory of feare and reverence: I will waſh my hands in Innocency O Lord. This Name ſhewing the Majeſty and power of God over man. By vertue of his name hee puniſhed the Sa<g ref="char:EOLhyphen"/>crifice of <hi>Cain.</hi> Gen. 4.5. The rebellion of <hi>Corah,</hi> Numb. 16. The bleating and Hypo<g ref="char:EOLhyphen"/>criticall Sacrifice of <hi>Saul.</hi> By vertue of this he threatens the Iſraelites, I am the Lord, by vertue of this he bids battle to the Nations, I am the Lord, What ſhooke the Wilder<g ref="char:EOLhyphen"/>neſſe? The voyce of the Lord. What brake the Cedars of Lebanon? The voyce of the Lord: by vertue of this Name he ratifies his purpoſes, the voyce of the Lord hath ſpo<g ref="char:EOLhyphen"/>ken it. By vertue of this Name he rides up<g ref="char:EOLhyphen"/>on the heavens, the Chariots of the Lord. By vertue of this Name his wrath is publi<g ref="char:EOLhyphen"/>ſhed, how long wilt thou be angry O Lord? By vertue of this Name hee ſummons the quarters of the earth, the day of the Lord. When ſhooke the Earth? at the preſence of the Lord. When melted the Heavens? at the preſence of the Lord. When were the waters dryed up? At the preſence of the
+<pb n="24" facs="tcp:133239:17"/>mighty God of Iacob: the leaſt falme of this buſh daſht Moſes out of countenance. This fiery pillar burnt Iobs goods and cat<g ref="char:EOLhyphen"/>tle. This burning heate made the children of Iſrael ſtand a farre off. Wherefore with St. Jeromes Marcella, we are to deſire the proper interpretation of all the Names of God; every one miniſtring occaſion of ſpirituall growth; yet are wee moſt to de<g ref="char:EOLhyphen"/>ſire it, when wee approach the Sanctuary of God, to prefixe this Name before our eyes, the name of the Lord: It being the Enſigne of his power, and the tempeſt going before his face, the Embleme of his Majeſty, the thunder of Mount Sinai, where Gods ſeate is, by vertue of which hee breatheth haile<g ref="char:EOLhyphen"/>ſtones and coales of fire.</p>
+            <p>This holy meditation of his Majeſty tur<g ref="char:EOLhyphen"/>ned Abraham into duſt &amp; aſhes: This ſtript Iob of all humane and vaine conceits, this cloathed David in Sackcloath, this made him a worm and no man, a thing of nought. And I doubt not, but if wee ſeriouſly enter<g ref="char:EOLhyphen"/>tained it, this would burne downe the ſtub<g ref="char:EOLhyphen"/>ble of humane opinions in us, and lay us
+<pb n="25" facs="tcp:133239:17"/>proſtrate, yea, even breathleſſe before the face of God, with the very thought of our wretched unworthyneſſe.</p>
+            <p>Wherefore (Beloved) let the reverent o<g ref="char:EOLhyphen"/>pinion of the preſence of the Lord be ever<g ref="char:EOLhyphen"/>more our curb when we come to the propi<g ref="char:EOLhyphen"/>tiatory of his Mercy ſeate. Let this calme the Sea of our affections, and worke in us an awfull and religious Obedience. Let us knowe the preſence of God is not the pre<g ref="char:EOLhyphen"/>ſence of Dagon that hath no eyes, nor of Niſroch which hath no eares, but the glo<g ref="char:EOLhyphen"/>rious and preſent beauty of Syon, the al-ſee<g ref="char:EOLhyphen"/>ing Eye of God, the diſcovery of Heaven. This Memento will cauſe us to waſh, to cleanſe our hearts, and ſearch the very con<g ref="char:EOLhyphen"/>cavity of our ſpirits; This will beget not on<g ref="char:EOLhyphen"/>ly an holy preparation before we come, but a cautelous and ſtrong attention after we are come, and the expectation of an happy be<g ref="char:EOLhyphen"/>nediction, ere we goe: fearing each moment the arrow of his diſpleaſure, the merit of our owne preſumption, and the doome of Heaven.</p>
+            <p>Thus much for the Majeſty, now follow<g ref="char:EOLhyphen"/>eth
+<pb n="26" facs="tcp:133239:18"/>the Mirror, O: And ſo will I go to thine Altar O Lord.</p>
+            <p>This interjection howſoever ſmothered in the Latin and Greeke Syntaxe, yet hath it in the Engliſh an Emphaticall uſe, and ſpe<g ref="char:EOLhyphen"/>ciality, it being the flood-gate of mans exta<g ref="char:EOLhyphen"/>ſie, and the dilatation of his Spirit, when he is tranſported with the high and ſublime ſpeculation of the preſence of God. Nei<g ref="char:EOLhyphen"/>ther is it only vented when we thinke of his preſence, but when wee ſpeake of his Attri<g ref="char:EOLhyphen"/>butes, or any the extraordinary or tranſcen<g ref="char:EOLhyphen"/>dent workes of his Diety: O the depth and riches of his Mercies! cries <hi>Paul</hi> in one place, O the inſcrutabilitie of his Judge<g ref="char:EOLhyphen"/>ments! in another place. O his wonder<g ref="char:EOLhyphen"/>full workes in the deepe! cries David in one place, O how amiable are thy dwellings! in another. Thus wonders Mortality, when it droopes and hangs the wing, being ſtrook with the Majeſty of God.</p>
+            <p>This ſhould cauſe humble dejection in our ſpirits, a poore and lowly eſteeme in our ſelves, when we enter into conference with God. Now there is nothing will ſooner
+<pb n="27" facs="tcp:133239:18"/>draw us to this practiſe, then the paralelling of our eſtate with Gods, our condition chal<g ref="char:EOLhyphen"/>lenging the wonderment of Lamentation, and Gods of Praiſe and Exaltation. For in this, Gods O of Mercy, will anſwer to Mans O of miſery: See it in the wreſtling of <hi>Paul,</hi> O miſerable man that I am! cryes he when he took Survey of his fleſhes rebelli<g ref="char:EOLhyphen"/>on, O the riches of the Mercies of God! when he weighs the depth of Chriſt's Pro<g ref="char:EOLhyphen"/>pitiation. See it likewiſe in the methode o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> David, O remember not my ſinnes and of<g ref="char:EOLhyphen"/>fences; cryes he, when he ſcan'd the meaſure of his owne miſery; O call to mind thy lo<g ref="char:EOLhyphen"/>ving kindneſſe ô Lord, when hee recollects the Balme of Gods mercy. O how ſhort is my time! when he ſpann'd the life of Man<g ref="char:punc">▪</g> O God thy ſeat endureth for ever, when he would fathome the Auncient of dayes. The like meditation will drive us to the ſame, to the ſame aſtoniſhment, when wee ſhall con<g ref="char:EOLhyphen"/>ſcionably think of our owne unworthyneſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with an O how inferiour are we! by reaſon of our many pollutions, to ſtand before the face of God; and it will make us ſay as Da<g ref="char:EOLhyphen"/>vid
+<pb n="28" facs="tcp:133239:19"/>doth here, I will waſh my hands in Innocency &amp;c. Thus much of the holy pre<g ref="char:EOLhyphen"/>ſence, I come now to the holy place, in this word, Altar.</p>
+            <p>Where note two things firſt the Reve<g ref="char:EOLhyphen"/>rence of his Progreſſe, So. Secondly the Re<g ref="char:EOLhyphen"/>ference of the place, Thine. And ſo will I go to thine Altar.</p>
+            <p>So, not otherwiſe though the Devil upon the pinacle, ſhould promiſe mee the King<g ref="char:EOLhyphen"/>dome of the world, for why ſhould we pre<g ref="char:EOLhyphen"/>ſume to come to the marriage of the Lambe without a wedding garment, or Samuels E<g ref="char:EOLhyphen"/>phod? So will I goe ſaith David, adorned with theſe unto thine Altar. And if ever <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his So, was dedicated to the obtaining of Eternity, if ever to the joy of Angels, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omfort of the Elect, it was then done, when David renounced the whole body of Sinne, &amp; turned to his Creator that made him.</p>
+            <p>Laſtly if ever this So, did procure the An<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>els of Heaven to rejoyce, then may it now <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſe us, to ſhed teares of gladneſſe ſince the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eauty of Holines, the Lamb of God, Inno<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ncy, hath offered himſelf upon the Croſſe,
+<pb n="29" facs="tcp:133239:19"/>and become an advocate to the father for our ſinnes.</p>
+            <p>Here was a So worthy to bee remembred for ever; for he dying turned our death in<g ref="char:EOLhyphen"/>to Life, that is, our ſinnes to righteouſneſſe. Thus much for the Reverence, now follow<g ref="char:EOLhyphen"/>eth the Reference, Thine:</p>
+            <p>The Pronoune Thine, is a partition wall, twixt God and Dagon, and ſanctifies the e<g ref="char:EOLhyphen"/>difices of the Temple. For this ſeperates all Idolatrous places of worſhip: Not any Al<g ref="char:EOLhyphen"/>tar, but the Altar of God, and not any place, but the place where his honour dwelleth. So that by this word, Thine, is meant the ha<g ref="char:EOLhyphen"/>bitation of his Glory, &amp; the holy Temple of the eternall and ever living God: To which whoſoever comes thus waſhed and prepa<g ref="char:EOLhyphen"/>red, ſhall enjoy the mount of Syon, and the hill of the new Ieruſalem, <hi>Montem pinguem,</hi> being a fat mountaine, in reſpect of the mul<g ref="char:EOLhyphen"/>titude of ſpirituall grace, <hi>Montem Dei,</hi> be<g ref="char:EOLhyphen"/>cauſe God himſelfe dwells there, and <hi>Mon<g ref="char:EOLhyphen"/>tem coagmentatum,</hi> ſo ſtrongly congealed and knit together, as that it is impoſſible it ſhould ever be removed.</p>
+            <pb n="30" facs="tcp:133239:20"/>
+            <p>Thus by Gods aſſiſtance and your gentle patience I have cleared my hand of my Text.</p>
+            <p>Now the God of mercy and compaſſion, which opened the heart of <hi>Lydia</hi> to con<g ref="char:EOLhyphen"/>ceive, opened the eyes of Eliſha to ſee, and opened the lipps of David to ſpeake, ſay E<g ref="char:EOLhyphen"/>phata to your hearts, eares, and eyes, that you may ever hunger and thirſt after righte<g ref="char:EOLhyphen"/>ouſneſſe, that you may ever ſeeke the Lord, and ſerve him in faith, and in the revealed myſteries of his word, Waſhing your hearts and hands in Innocency, that ſo you may for ever obtaine Grace here in this world, and eternall glory in the world to come; which God grant unto you all, Amen.</p>
+            <closer>Soli Dei Gloria.</closer>
+            <pb facs="tcp:133239:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
